@@ -2,8 +2,8 @@
 SwiftUI workshop 
 
 Team:
-Ana Anguiano
-Gardenia Mejía 
-Carolina carapia
-Abner
-Misael chavez
+* Ana Anguiano
+* Gardenia Mejía 
+* Carolina carapia
+* Abner
+* Misael chavez
